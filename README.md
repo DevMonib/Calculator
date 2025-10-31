@@ -1,6 +1,6 @@
 # My Calculator
 
-👋 Welcome to My Calculator! This is a simple yet powerful calculator program written in C++ & Python that can perform a variety of mathematical operations. The calculator supports single operations, double operations, solving roots of second-degree equations, and geometric calculations.
+👋 Welcome to My Calculator! This is a simple yet powerful calculator program written in C++ that can perform a variety of mathematical operations. The calculator supports single operations, double operations, solving roots of second-degree equations, and geometric calculations.
 
 ## 💻 Features
 
